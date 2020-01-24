@@ -1,0 +1,2 @@
+# dev-ops-or-death-ops
+dev-ops or death-ops? In many efforts to digitally transform, organisations follow methodologies to the "T" result in digital death marches. This is not sustainable. To achieve sustained digital transformation, organisation must not often forget the crucial element -- the human. In this paper, we explore how dev-ops become death ops and how we can avoid this from happening. Remember -- sustained digital transformation is key to beating out competition, not merely delivery cadence. A Pyrrhic victory needs to be avoided at all cost. 
